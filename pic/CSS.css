@@ -1,0 +1,14 @@
+table{ width:100%; text-align:center; }
+.td{ width: 100px;  border: 4px solid #6E4573 ; #2578CA  ; background-color: white;}
+.td:hover { width: 100px;  border: 4px solid #6E4573    ; background-color:#F4E5F5  ;}
+
+.a{ font-size: 30px; text-decoration:none; color: black ;}
+.a:hover{ font-size: 30px; text-decoration:none; color: #7B5280  ;}
+
+.a1{ text-decoration: none; background-color:#D295D9  ; font-size: 70px; text-align: center; border: 6px dotted #6E4573  ; #2578CA;font-family: Jokerman; display: block;color: black}}
+
+body{ overflow:hidden; }
+
+iframe{ width:100%;height:;}
+
+ body, iframe, html { height:100%;  }

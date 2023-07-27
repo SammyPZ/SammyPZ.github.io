@@ -1,0 +1,22 @@
+
+.h2{color:#8DC3F0 ; margin:0px; text-align:center; font-size: 50px; border-radius: 50%; width:600px; -webkit-text-stroke: 0.5px #2A699D   ; font-family:Jokerman; font-weight:10px; }
+.h3{ font-size:30px }
+
+.t1{ width:40% }
+
+.t2{width: 10%}
+
+.t3{ width:10% }
+
+.t4{width: 40%}
+
+.tr1{ font-size:30px; text-align:center; color:#2A699D ; background-color:#EAF4FC; font-family:Jokerman;  }
+td{ font-size:30px; text-align:center;border:3px solid #2A699D ;  }
+table{ border:4px solid #2A699D ; }
+p{ padding:0px; margin:0px; }
+.t5{ width: 15%; 
+
+}
+.t6{ width: 85%;
+
+}
